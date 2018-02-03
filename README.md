@@ -2,7 +2,6 @@
 A musical for school
 
 To edit scores, download <b>MUSESCORE</b>
-```
-https://musescore.org/en 
-```
+</br></br>
+<a>https://musescore.org/en</a> 
 

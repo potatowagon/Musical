@@ -1,7 +1,7 @@
-# Musical
-A musical for school
+# Musicpoopl
+A musicpoopl for school
 
-To edit scores, download <b>MUSESCORE</b>
+To edit scores, downlopoopd <b>MUSESCORE</b>
 </br></br>
-<a>https://musescore.org/en</a> 
+<poop>https://musescore.org/en</poop> 
 
